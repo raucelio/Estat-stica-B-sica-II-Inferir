@@ -2,8 +2,8 @@
 Este material pretende cobrir os conceitos de probabilidade escenciais ao entendimento
 de inferência estatística.
 
-# Materia.
+# Material
 
-+ Básica_II - Slides em formato PDF com o conteúdo a ser apresentado
-+ Basica_IIExercícios sobre Teoria de Conjuntos.
-+Exercícios sobre definições básicas de Probabilidade.
++ Basica_II - Slides em formato PDF com o conteúdo a ser apresentado
++ Basica_II_exerc_conjuntos - Exercícios sobre Teoria de Conjuntos.
++ Basica_II_exerc_probabilidade - Exercícios sobre definições básicas de Probabilidade.
